@@ -1,0 +1,30 @@
+{
+  "name": "dev-tips-starter-kit",
+  "version": "1.0.0",
+  "authors": [
+    "Maikel Rivero Dorta <mriverodorta@gmail.com>"
+  ],
+  "description": "Simple structure for a simple start to a simple site.",
+  "main": "build/index.html",
+  "keywords": [
+    "boilerplate",
+    "seed",
+    "starter-kit",
+    "devtips",
+    "sass",
+    "jade",
+    "gulp"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "source/vendors",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
